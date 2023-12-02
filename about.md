@@ -3,6 +3,7 @@ layout: page
 title: About Me
 permalink: /about
 sidebar_link: true
+sidebar_sort_order: 4
 ---
 
 ## My Backstory

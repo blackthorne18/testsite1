@@ -3,6 +3,7 @@ layout: page
 title: Work
 permalink: /work
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 ### PhD studying Plasmid-Host Dynamics in the context of Antibiotic Resistance with Dr. James Hall
