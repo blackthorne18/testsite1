@@ -1,3 +1,9 @@
+---
+layout: page
+title: About Me
+permalink: /about
+---
+
 # My Backstory
 
 Brought up in cheerful and welcoming South Bengaluru, I grew up loving to play cricket, exploring the imaginative islands that spanned my home and reading books untill I ran out of them.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Work
+permalink: /work
+---
+
 ## PhD studying Plasmid-Host Dynamics in the context of Antibiotic Resistance with Dr. James Hall
 - Studying persistence of antimicrobial resistance as a function of plasmid persistence in the host
 - Understanding the interaction dynamics of the plasmid and the host genome

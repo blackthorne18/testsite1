@@ -1,3 +1,9 @@
+---
+layout: page
+title: Conferences
+permalink: /conferences
+---
+
 ## Bioiological Transactions from Molecules to Organisms 2023
 An international conference organised by the Indian Institute of Science, Bangalore between 18th and 21st January 2023. I was selected to present a poster titled “Influence of conflicting selection-constraints on the de-novo evolution of antibiotic resistance”.
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Education
+permalink: /edu
+---
+
 ## PhD in Mirobiology
 Department of Evolution, Ecology and Behaviour
 University of Liverpool
